@@ -3,6 +3,13 @@
 ## 概要
 ニコニコ実況の過去ログをダウンロードして、デジタルテロッパで表示するスクリプトです。
 
+### 説明ページ
+http://d.hatena.ne.jp/aremokoremo/20160110/1452444565
+
+### 参考動画
+[![image](http://img.youtube.com/vi/SlJEGiAil20/0.jpg)](https://www.youtube.com/watch?v=SlJEGiAil20)
+
+
 ## 実行に必要な環境
 - pythonがインストールされている事。(Ver 2.7.5で動作確認しました)
 - スクリプトを実行するPCが、インターネット接続されている事
